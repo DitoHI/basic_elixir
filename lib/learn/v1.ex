@@ -19,7 +19,7 @@ defmodule Learn.V1 do
   IO.puts(:a = :a)
   IO.puts(5 = 5)
   IO.puts(5 == 5)
-  IO.puts(true == :true)
+  IO.puts(:a)
 
   # string
   IO.puts("Hello, my name is VJ")
