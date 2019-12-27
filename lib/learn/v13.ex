@@ -14,5 +14,4 @@ defmodule V13 do
   def sub_to(num) do
        num - @common_num
   end
-
 end
