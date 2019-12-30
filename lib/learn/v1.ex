@@ -1,7 +1,6 @@
 defmodule Learn.V1 do
   @moduledoc false
-#  value = "Hello World"
-
+  # Basic Data Types
   # bytes manipulation
   IO.puts(0b1111)
   IO.puts(0o111)
